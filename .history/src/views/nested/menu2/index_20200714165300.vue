@@ -79,7 +79,7 @@ export default {
           actived: 0
         },
         {
-          name: 'test2',
+          name: 'test2-test2',
           code: 'code3',
           code12: 'code2',
           actived: 1
