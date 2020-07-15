@@ -73,7 +73,7 @@ export default {
       ],
       dataSource: [
         {
-          name: 'test1-test2',
+          name: 'test1-test7',
           code: 'code1',
           code12: 'code2',
           actived: 0
