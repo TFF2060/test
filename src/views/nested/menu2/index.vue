@@ -111,6 +111,9 @@ export default {
     handleEdit(row){
       console.log('编辑')
       console.log(row, '2323232323wewe')
+      console.log('编辑', '3434343')
+      console.log(row)
+      console.log(row, '23232323')
     }
   }
 }
