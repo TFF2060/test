@@ -110,7 +110,7 @@ export default {
     // 编辑
     handleEdit(row){
       console.log('编辑')
-      console.log(row, '232323')
+      console.log(row, '2323232323wewe')
     }
   }
 }
