@@ -23,7 +23,7 @@
 <script>
 
 export default {
-  name: 'Page404121',
+  name: 'Page40412133333',
   computed: {
     message() {
       return 'The webmaster said that you can not enter this page...'
